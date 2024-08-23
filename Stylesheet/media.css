@@ -1,0 +1,13 @@
+body, figure{
+    background-color: beige;
+    padding: 0;
+    margin: 0;
+}
+
+video, img{
+    width: 200px;
+}
+
+figcaption{
+    padding-top: 10px;
+}
