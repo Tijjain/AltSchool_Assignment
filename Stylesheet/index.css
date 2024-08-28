@@ -32,6 +32,7 @@ nav li a {
 .flex-container {
     display: flex;
     width: screen;
+    
    
 
 }
@@ -40,6 +41,7 @@ nav li a {
     width: 15%;
     padding: 10px;
     margin: 5px;
+    position: relative;
 }
 
 .flex-article {
@@ -52,7 +54,7 @@ nav li a {
 #mypicture {
     width: 150px;
     position: absolute;
-    top: 20%;
-    left: 2%;
+    top: 10%;
+    left: 20%;
 
 }
